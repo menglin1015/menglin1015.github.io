@@ -1,6 +1,6 @@
 
 
-[![menglin1015](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/menglin1015)
+[![menglin1015](https://img.shields.io/badge/menglin1015-github-blue?logo=github)](https://github.com/menglin1015)
 
 I am a master student at Shanghai Institute of Technology.
 
