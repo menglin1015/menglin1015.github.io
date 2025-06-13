@@ -8,8 +8,9 @@ I am a master student at Shanghai Institute of Technology.
 csmeng66@163.com
 
 #### Education
-M.E., Mechanical and Electronic Engineering, Shanghai Institute of Technology, 2022—2025 (expected).
+Ph.D, School of Automation, Nanjing University of Science and Technology, 2025-2029(expected). 
+M.E., Mechanical and Electronic Engineering, Shanghai Institute of Technology, 2022—2025.
 
 #### Research Interests
-I am interested in Medical Image Analysis, Efficient Transformers, Self-Supervised Learning, Camouflaged Object Detection, Weakly Supervised Learning, Salient Object Detection and Multimodal Learning.
+I am interested in Multimodal Learning, Salient Object Detection, Medical Image Analysis, Efficient Transformers, Self-Supervised Learning, Camouflaged Object Detection and Weakly Supervised Learning.
 
